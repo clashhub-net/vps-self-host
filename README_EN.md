@@ -48,3 +48,7 @@ docker run -d --name freshrss -p 8080:80 -v freshrss:/var/www/FreshRSS/data --re
 ---
 
 MIT License - 2026
+
+---
+
+> For more VPS & Clash tools, check out [Awesome VPS & Clash Tools](https://github.com/CG-spring/awesome-vps-clash-tools)

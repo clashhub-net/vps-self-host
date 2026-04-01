@@ -277,3 +277,7 @@ MIT License - 2026
 <p align="center">
   <a href="https://vpsvip.net">VPSVIP 主机测评</a>
 </p>
+
+---
+
+> 更多 VPS & Clash 工具，请查看 [Awesome VPS & Clash Tools](https://github.com/CG-spring/awesome-vps-clash-tools) 精选合集
